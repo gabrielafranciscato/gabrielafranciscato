@@ -1,7 +1,7 @@
-@@ -1,29 +1,29 @@
+
 ![Header](https://user-images.githubusercontent.com/67978032/171757505-6a2bf896-affd-415b-b060-bed1cdf1ce8f.png)
-Full stacker Web Developer
-(https://www.cod3r.com.br/)  e procuro me superar a cada dia.
+Junior Web Developer with one plus years of experience.
+
 ## Tecnologias que estou usando atualmente
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
