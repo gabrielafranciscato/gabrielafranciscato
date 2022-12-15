@@ -1,7 +1,5 @@
 
-![Header](https://user-images.githubusercontent.com/65264337/207755589-6fe1c239-f3e5-41b9-981c-c6a5bf6c2b56.png)
-
-
+![Header](https://user-images.githubusercontent.com/65264337/207755958-98f99c5f-4bce-47c5-95cd-23f63b50ccab.png)
 
 Junior Web Developer with one plus years of experience.
 
