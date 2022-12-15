@@ -1,5 +1,6 @@
 
-![Header](https://user-images.githubusercontent.com/67978032/171757505-6a2bf896-affd-415b-b060-bed1cdf1ce8f.png)
+![Header](https://user-images.githubusercontent.com/65264337/207752807-c91796e0-e12c-4b8f-a372-2ab9029dd622.png)
+
 Junior Web Developer with one plus years of experience.
 
 ## Tecnologias que estou usando atualmente
