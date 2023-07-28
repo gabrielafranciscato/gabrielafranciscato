@@ -22,5 +22,6 @@ Junior Web Developer with one plus years of experience.
 
 ## Get in touch
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-franciscato/)
-[![PERSONAL WEBSITE](https://gabrielafranciscato.github.io/personal_website/)](https://gabrielafranciscato.github.io/personal_website/)
+
+<a href="https://gabrielafranciscato.github.io/personal_website/" style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px;" target="_blank">Visit Personal Website</a>
 
