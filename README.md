@@ -20,6 +20,7 @@ Junior Web Developer with one plus years of experience.
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
- ## Get in touch
- [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-franciscato/)
- [![PERSONAL WEBSITE] (https://gabrielafranciscato.github.io/personal_website/)
+## Get in touch
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-franciscato/)
+[![PERSONAL WEBSITE](https://gabrielafranciscato.github.io/personal_website/)](https://gabrielafranciscato.github.io/personal_website/)
+
